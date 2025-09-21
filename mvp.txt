@@ -1,2 +1,2 @@
 Notebook:https://colab.research.google.com/drive/1tpXYnyWs79T1icIXCSu-51xE1U68s5pq#scrollTo=qn8tvy15psf5
-Mvp:https://github.com/AMITSINGH098/Mirage.git
+Mvp:https://986f5c02-bd07-4df8-91f6-9aa2453a0fe0-00-2jijgy0gged76.kirk.replit.dev/
